@@ -10,7 +10,7 @@ ou dans un terminal :
 
 ```bash
 cd ~/Documents/
-git clone https://github.com/jsaussereau/EN111PR.git
+git clone https://github.com/Crateus/EN111_Project.git
 ```
 
 ## Organisation du répertoire
@@ -51,7 +51,7 @@ Il y a 3 dossiers principaux :
 
 
 ## Évaluation
-À rendre par mail à [jsaussereau@bordeaux-inp.fr](mailto:jsaussereau@bordeaux-inp.fr?subject=[EN111]%20NOM1%20NOM2) avec comme objet `[EN111] NOM1 NOM2`, avant le *<date à définir>* à 23h59 :
+À rendre par mail à [yassine.faize@bordeaux-inp.fr](mailto:yassine.faize@bordeaux-inp.fr?subject=[EN111]%20NOM1%20NOM2) avec comme objet `[EN111] NOM1 NOM2`, avant le *<date à définir>* à 23h59 :
 - Un rapport par binôme, d'environ 10 pages (hors annexe), au format `.pdf`, contenant :
 	- Une introduction du contexte en résumant le cahier des charges et en présentant les ressources utiles de la carte.
 	- La configuration des modules du PIC utilisés : 
